@@ -1,0 +1,51 @@
+BRO — your desktop buddy (Windows)
+=================================
+
+INSTALL
+1. Unzip this folder anywhere (for example Documents\Bro).
+2. Double-click Bro.exe.
+
+FIRST OPEN (one time only)
+Bro isn't from the Microsoft Store, so Windows SmartScreen may say "Windows protected your PC":
+click "More info", then "Run anyway". After that, Bro opens normally.
+
+WHAT BRO DOES
+• Lives on your desktop, walks around, waves hello. Biscuit the cat is the default buddy.
+• Reminds you to drink water (every 45 min). Click YES and he does a happy run.
+• When you open YouTube, Instagram, Netflix, Prime Video, Hotstar and more in your browser, he asks
+  how much time you need, hides, then nags you and closes the tab when your time is up.
+• Tidies folders: right-click Bro > Tidy a folder. Images, videos, audio, documents and archives go
+  into their own folders. Nothing is deleted, and "Undo last tidy" puts everything back.
+  Works offline: no AI, no internet needed.
+
+CLICKS
+• Click Bro: he shows off a swag move.   • Double-click: opens chat.
+• Drag him anywhere.   • Right-click: everything else (character, tidy, hide, settings, quit).
+• When he hides, click the little "Bro" pill at the bottom-right of the screen to bring him back.
+
+CHARACTERS
+Right-click Bro > Character to switch between Biscuit the Cat, Bro (Denim), Iron Man, Drop and Buddy.
+You can also change it in Settings.
+
+FIRST RUN
+The first time Bro opens, he gives you a quick tour (Next > Next > Got it).
+Replay it any time: right-click Bro > Show tutorial.
+
+CHAT
+Double-click Bro to chat. Without any setup he understands simple commands offline:
+"tidy my downloads", "tidy my desktop", "undo", "I drank water", "walk left".
+
+AGENTIC CHAT (optional)
+For real conversations, right-click Bro > Settings > Agentic chat, choose your provider
+(OpenAI, Anthropic Claude, Google Gemini, or any OpenAI-compatible service) and paste your own
+API key. The key is stored only on your PC. Bro ships with no keys.
+
+SETTINGS
+Right-click Bro > Settings... to change:
+• what Bro calls you, the character, and the water reminder interval
+• which sites and OTT apps to watch
+• the time choices, and the default time if you don't answer
+• walking around, start with Windows, and agentic chat
+
+Works on Windows 10 and 11.
+Made by Shaid · shaid360.com

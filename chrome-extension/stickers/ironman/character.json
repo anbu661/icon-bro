@@ -1,0 +1,6 @@
+{
+  "name": "Iron Man",
+  "walkFacesRight": true,
+  "runFacesRight": true,
+  "fps": 24
+}

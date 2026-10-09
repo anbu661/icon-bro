@@ -1,0 +1,59 @@
+BRO — your desktop buddy
+========================
+
+INSTALL
+1. Drag Bro into the Applications folder (in this window).
+2. Open Applications and double-click Bro.
+
+FIRST OPEN (one time only)
+Bro isn't from the App Store, so macOS asks you to confirm the first time:
+1. Double-click Bro. macOS says it "could not verify" Bro. Click Done.
+2. Open System Settings → Privacy & Security.
+3. Scroll down to "Bro was blocked…" and click "Open Anyway".
+4. Enter your Mac password, then click "Open".
+After that, Bro opens normally.
+
+(Alternative for Terminal users:  xattr -dr com.apple.quarantine /Applications/Bro.app )
+
+WHAT BRO DOES
+• Lives on your desktop, walks around, waves hello.
+• Reminds you to drink water (every 45 min). Click YES and he does a happy run.
+• When you open YouTube, Instagram, Netflix, Prime Video, Hotstar and more, he asks how much
+  time you need, then nags you and closes the tab when your time is up.
+  (macOS asks "Bro wants to control Google Chrome / Safari" — click OK, or he can't see your tabs.)
+• Tidies folders: right-click Bro → Tidy a folder. Images, videos, audio, documents and
+  archives go into their own folders. Nothing is deleted, and "Undo last tidy" puts everything back.
+  Works offline — no AI, no internet needed.
+
+CLICKS
+• Click Bro: he shows off a swag move.   • Double-click: opens chat.
+• Drag him anywhere.   • Right-click: everything else (tidy, minimise, settings, quit).
+• Minimise: right-click → Minimise Bro. Bring him back from the 😎 in the menu bar or the Dock.
+
+CHARACTERS
+Biscuit the cat is the default buddy. Right-click Bro → Character to switch to Bro (Denim),
+Iron Man, Drop or Buddy. You can also change it in Settings.
+
+FIRST RUN
+The first time Bro opens, he gives you a quick tour (Next → Next → Got it).
+Replay it any time: right-click Bro → Show tutorial.
+
+CHAT
+Double-click Bro to chat. Without any setup he understands simple commands offline:
+"tidy my downloads", "tidy my desktop", "undo", "I drank water", "walk left".
+
+AGENTIC CHAT (optional)
+For real conversations, right-click Bro → Settings → Agentic chat, choose your provider
+(OpenAI, Anthropic Claude, Google Gemini, or any OpenAI-compatible service) and paste your own
+API key. The key is stored only on your Mac. Bro ships with no keys.
+
+SETTINGS
+Right-click Bro → Settings… to change:
+• what Bro calls you, the character, and the water reminder interval
+• which sites and OTT apps to watch (YouTube, Instagram, Netflix, Prime Video, JioHotstar, …)
+• the time choices, and the default time if you don't answer
+• walking around, start at login, and agentic chat
+Changes apply straight away.
+
+Works on macOS 13 Ventura or newer, Apple Silicon and Intel.
+Made by Shaid · shaid360.com

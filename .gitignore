@@ -1,0 +1,8 @@
+build/
+dist/
+*.key
+.env
+__pycache__/
+.DS_Store
+guide/
+Bro-Desktop-Companion-Guide.pdf

@@ -1,0 +1,5 @@
+requests>=2.31
+pillow>=10.0
+psutil>=5.9
+pyinstaller>=6.0
+# only for import_character.py (making your own characters):  rembg[cpu]>=2.0.50  numpy>=1.26
